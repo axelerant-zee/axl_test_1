@@ -1,0 +1,16 @@
+name: axl_test_1
+id: ari:cloud:compass:4dc444ec-d4ec-4f84-a629-1c755710b08c:component/24aa3b65-bfa0-4f6e-a7ab-b109a00f5085/a6b478d8-4305-4a02-963e-a55fddc0cde3
+description: Test1 Repo
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/axelerant-zee/axl_test_1
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
