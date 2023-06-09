@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: axl_test_1
+  annotations:
+    github.com/project-slug: axelerant-zee/axl_test_1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: coe_tech
