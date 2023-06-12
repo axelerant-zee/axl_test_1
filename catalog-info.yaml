@@ -5,6 +5,7 @@ metadata:
   title: My First App
   annotations:
     github.com/project-slug: axelerant-zee/axl_test_1
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
