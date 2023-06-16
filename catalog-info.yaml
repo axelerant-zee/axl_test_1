@@ -10,4 +10,4 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: [coe_tech, platform_eng]
+  owner: coe_tech
