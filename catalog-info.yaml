@@ -9,6 +9,7 @@ metadata:
   annotations:
     github.com/project-slug: axelerant-zee/axl_test_1
     backstage.io/techdocs-ref: dir:.
+    github.com/team-slug: axelerant-zee/org1-wa-team
 spec:
   type: website
   lifecycle: production
