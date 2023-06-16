@@ -4,6 +4,8 @@ metadata:
   name: axl_test_1
   title: My First App
   description: axelerant-zee Org
+  labels:
+    example.com/custom: custom_label_value
   annotations:
     github.com/project-slug: axelerant-zee/axl_test_1
     backstage.io/techdocs-ref: dir:.
