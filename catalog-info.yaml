@@ -11,7 +11,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/team-slug: axelerant-zee/org1-wa-team
   tags:
-    - Managed
+    - managed
 spec:
   type: website
   lifecycle: production
