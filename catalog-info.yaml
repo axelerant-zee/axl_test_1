@@ -14,3 +14,4 @@ spec:
   type: website
   lifecycle: production
   owner: coe_tech
+  system: managed
