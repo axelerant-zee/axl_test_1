@@ -13,4 +13,5 @@ relationships:
   DEPENDS_ON: []
 labels:
   - source:github
+  - 'type:managed'
 customFields: null
