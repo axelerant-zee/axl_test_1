@@ -14,4 +14,10 @@ relationships:
 labels:
   - source:github
   - 'type:managed'
-customFields: null
+customFields:
+  - name: Category
+    type: text
+    value: Category 1
+  - name: Engagement Type
+    type: text
+    value: Statffing
