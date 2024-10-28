@@ -1,3 +1,4 @@
 this is test file 1
 another line
 line 2
+line 3
