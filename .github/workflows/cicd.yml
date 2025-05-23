@@ -37,7 +37,8 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment: production
+    environment:
+      name: ${{ github.ref_name == 'main' && 'production' || 'feature' }}
     steps:
       - name: Print hello.
         run: echo Hello, world
