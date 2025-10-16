@@ -12,7 +12,6 @@ metadata:
     github.com/team-slug: axelerant-zee/org1-wa-team
     dependencytrack/project-id: 8de6c1ad-7d7b-45c3-99ae-46367fe7e838
     servicenow.com/appcode: APM0001003
-    
   tags:
     - managed
 spec:
