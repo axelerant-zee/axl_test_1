@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: github-user-management-application-ghum-001
+  title: Github User Management Application
+  description: "This application runs on a cron and pull relevant information for the data-project correlating Github Users that take seats in the enterprise to Redhat users and their associated cost center ids/ Last CI Relationship validation: 08/09/24 - no downstream CIs due to cron containers not being run recently."
+  annotations:
+    servicenow.com/app-code: GHUM-001
+spec:
+  owner: guest
