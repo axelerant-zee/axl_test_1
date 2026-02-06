@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: example-system-1
+  title: Example System 1
+  description: "This is an example system"
+  annotations:
+    servicenow.com/app-code: GHUM-001
+spec:
+  owner: team-a
