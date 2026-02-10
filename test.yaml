@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: my-test-system-1
+  description: My test System 1
+  tags:
+    - portal
+spec:
+  owner: team-a
+  domain: artists
+  type: service
