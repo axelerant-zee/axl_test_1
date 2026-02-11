@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: my-test-system-2
-  description: My test System 2
+  description: My test System 2 updated
   tags:
     - portal
 spec:
